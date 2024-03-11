@@ -1,0 +1,18 @@
+{
+  "name": "jsutil",
+  "version": "1.0.0",
+  "description": "a pakege for some js util tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":{
+	  "javascript","phone-vertify","tools"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trchh/jsUtil.git"
+  },
+  "author": "lazyin<lazyin99@gmail.com>",
+  "license": "MIT"
+}
